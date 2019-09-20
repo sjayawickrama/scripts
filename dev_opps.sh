@@ -44,4 +44,4 @@ fi
 			 echo "[error]: jenkin is not installed" >> $log
 
 		 fi
-																								
+																								echo " steps are completed: please refer the log file for further details"
